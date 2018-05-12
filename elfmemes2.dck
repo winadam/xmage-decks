@@ -1,0 +1,31 @@
+NAME:elfmemes
+2 [AKH:91] Festering Mummy
+2 [DOM:98] Lich's Mastery
+3 [AKH:261] Swamp
+1 [JR:91] Swamp
+2 [HOU:150] Claim // Fame
+4 [W17:18] Raise Dead
+2 [RIX:87] Tomb Robber
+1 [7ED:347] Swamp
+3 [KLD:77] Dukhara Scavenger
+2 [HOU:58] Apocalypse Demon
+3 [XLN:121] Seekers' Squire
+2 [XLN:94] Boneyard Parley
+2 [HOU:63] Dreamstealer
+2 [DOM:112] Windgrace Acolyte
+4 [AKH:212] Never // Return
+1 [KLD:256] Swamp
+8 [AKH:263] Swamp
+8 [AKH:252] Swamp
+3 [RIX:82] Ravenous Chupacabra
+3 [AKH:262] Swamp
+2 [AKH:275] Liliana, Death Wielder
+SB: 1 [3ED:301] Swamp
+SB: 1 [AVR:237] Swamp
+SB: 2 [RIX:87] Tomb Robber
+SB: 1 [MRD:295] Swamp
+SB: 1 [ARENA:34] Swamp
+SB: 1 [DDR:69] Swamp
+SB: 1 [XLN:121] Seekers' Squire
+LAYOUT MAIN:(1,8)(CMC,false,50)|([AKH:262],[AKH:263],[AKH:262],[AKH:261],[AKH:263],[AKH:252],[AKH:252],[AKH:262],[AKH:263],[AKH:252],[AKH:263],[AKH:263],[AKH:261],[AKH:263],[AKH:252],[AKH:252],[AKH:263],[AKH:261],[AKH:252],[AKH:263],[AKH:252],[AKH:252],[KLD:256],[JR:91],[7ED:347])([AKH:91],[AKH:91],[W17:18],[W17:18],[W17:18],[W17:18])([XLN:121],[XLN:121],[XLN:121])([HOU:150],[HOU:150],[HOU:63],[HOU:63],[RIX:87],[RIX:87])([RIX:82],[RIX:82],[RIX:82])([DOM:112],[DOM:112])([HOU:58],[HOU:58],[KLD:77],[KLD:77],[KLD:77],[DOM:98],[DOM:98])([XLN:94],[XLN:94],[AKH:275],[AKH:275],[AKH:212],[AKH:212],[AKH:212],[AKH:212])
+LAYOUT SIDEBOARD:(2,4)(CMC,true,50)|([AVR:237],[ARENA:34],[MRD:295],[3ED:301],[DDR:69])()()()()([XLN:121])([RIX:87])([RIX:87])

@@ -1,0 +1,35 @@
+NAME:elfmemes
+2 [AKH:91] Festering Mummy
+1 [JR:91] Swamp
+2 [W17:18] Raise Dead
+1 [DDR:69] Swamp
+2 [XLN:94] Boneyard Parley
+2 [HOU:74] Razaketh's Rite
+2 [HOU:72] Moaning Wall
+3 [AKH:212] Never // Return
+1 [DOM:90] The Eldest Reborn
+6 [AKH:252] Swamp
+3 [RIX:82] Ravenous Chupacabra
+3 [AER:61] Gifted Aetherborn
+2 [AKH:275] Liliana, Death Wielder
+3 [AKH:261] Swamp
+1 [7ED:347] Swamp
+2 [DOM:210] Amaranthine Wall
+1 [HOU:69] Lurching Rotbeast
+3 [XLN:121] Seekers' Squire
+2 [HOU:63] Dreamstealer
+2 [AKH:105] Ruthless Sniper
+2 [DOM:112] Windgrace Acolyte
+1 [KLD:256] Swamp
+2 [HOU:158] Abandoned Sarcophagus
+8 [AKH:263] Swamp
+3 [AKH:262] Swamp
+SB: 1 [3ED:301] Swamp
+SB: 1 [AVR:237] Swamp
+SB: 2 [RIX:87] Tomb Robber
+SB: 1 [MRD:295] Swamp
+SB: 2 [KLD:77] Dukhara Scavenger
+SB: 1 [ARENA:34] Swamp
+SB: 1 [XLN:121] Seekers' Squire
+LAYOUT MAIN:(1,7)(CMC,false,50)|([AKH:262],[AKH:263],[AKH:262],[AKH:261],[AKH:263],[AKH:252],[AKH:262],[AKH:263],[AKH:263],[AKH:263],[AKH:261],[AKH:263],[AKH:252],[AKH:252],[AKH:263],[AKH:261],[AKH:252],[AKH:263],[AKH:252],[AKH:252],[KLD:256],[JR:91],[7ED:347],[DDR:69])([AKH:91],[AKH:91],[W17:18],[W17:18],[AKH:105],[AKH:105])([AER:61],[AER:61],[AER:61],[XLN:121],[XLN:121],[XLN:121])([HOU:158],[HOU:158],[HOU:63],[HOU:63],[HOU:72],[HOU:72],[AKH:212],[AKH:212],[AKH:212])([HOU:69],[RIX:82],[RIX:82],[RIX:82],[DOM:210],[DOM:210])([HOU:74],[HOU:74],[DOM:112],[DOM:112],[DOM:90])([XLN:94],[XLN:94],[AKH:275],[AKH:275])
+LAYOUT SIDEBOARD:(2,5)(CMC,true,50)|([AVR:237],[ARENA:34],[MRD:295],[3ED:301])()()()([KLD:77],[KLD:77])()([XLN:121])([RIX:87])([RIX:87])()

@@ -1,0 +1,20 @@
+NAME:white test
+4 [DOM:21] History of Benalia
+3 [AER:24] Sram's Expertise
+4 [AER:14] Dawnfeather Eagle
+2 [XLN:263] Plains
+7 [XLN:262] Plains
+4 [AKH:2] Anointed Procession
+4 [AKH:3] Anointer Priest
+4 [KLD:17] Glint-Sleeve Artisan
+6 [XLN:261] Plains
+3 [KLD:19] Impeccable Timing
+8 [XLN:260] Plains
+3 [KLD:5] Authority of the Consuls
+4 [AKH:27] Sacred Cat
+4 [HOU:11] Djeru's Renunciation
+SB: 4 [DOM:22] Invoke the Divine
+SB: 4 [RIX:14] Martyr of Dusk
+SB: 4 [AKH:4] Approach of the Second Sun
+LAYOUT MAIN:(1,6)(CMC,false,50)|([XLN:261],[XLN:260],[XLN:262],[XLN:262],[XLN:262],[XLN:261],[XLN:261],[XLN:260],[XLN:260],[XLN:262],[XLN:263],[XLN:260],[XLN:260],[XLN:260],[XLN:263],[XLN:262],[XLN:261],[XLN:262],[XLN:260],[XLN:262],[XLN:260],[XLN:261],[XLN:261])([KLD:5],[KLD:5],[KLD:5],[AKH:27],[AKH:27],[AKH:27],[AKH:27])([AKH:3],[AKH:3],[AKH:3],[AKH:3],[KLD:19],[KLD:19],[KLD:19],[HOU:11],[HOU:11],[HOU:11],[HOU:11])([KLD:17],[KLD:17],[KLD:17],[KLD:17],[DOM:21],[DOM:21],[DOM:21],[DOM:21])([AKH:2],[AKH:2],[AKH:2],[AKH:2],[AER:24],[AER:24],[AER:24])([AER:14],[AER:14],[AER:14],[AER:14])
+LAYOUT SIDEBOARD:(2,2)(CMC,true,50)|([AKH:4],[AKH:4],[AKH:4],[AKH:4])([DOM:22],[DOM:22],[DOM:22],[DOM:22])([RIX:14],[RIX:14],[RIX:14],[RIX:14])()

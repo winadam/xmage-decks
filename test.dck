@@ -1,0 +1,4 @@
+2 [MM3:232] Cavern of Souls
+2 [XLN:258] Unclaimed Territory
+LAYOUT MAIN:(1,1)(CMC,false,50)|([MM3:232],[MM3:232],[XLN:258],[XLN:258])
+LAYOUT SIDEBOARD:(0,0)(CMC,true,50)|
