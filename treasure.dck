@@ -1,0 +1,38 @@
+NAME:treasuremaybe
+4 [DOM:67] Syncopate
+1 [P02:155] Island
+3 [RIX:39] Hornswoggle
+4 [AER:49] Whir of Invention
+1 [M10:234] Island
+4 [AKH:2] Anointed Procession
+1 [M12:234] Island
+4 [XLN:250] Treasure Map
+1 [FRF:179] Island
+1 [DDL:40] Plains
+1 [S00:52] Island
+4 [KLD:50] Glint-Nest Crane
+1 [5ED:435] Island
+1 [EURO:7] Island
+4 [AER:160] Inspiring Statuary
+3 [AER:181] Walking Ballista
+1 [LRW:284] Plains
+1 [HOU:161] God-Pharaoh's Gift
+1 [INV:338] Island
+1 [MRD:291] Island
+3 [XLN:69] Prosperous Pirates
+4 [KLD:32] Toolcraft Exemplar
+1 [C16:341] Island
+1 [C17:299] Island
+1 [ZEN:233] Plains
+1 [M15:256] Island
+1 [RTR:254] Plains
+1 [6ED:337] Island
+1 [C13:341] Island
+1 [DDF:37] Plains
+1 [ZEN:236] Island
+1 [DDF:76] Island
+1 [ME3:220] Island
+SB: 1 [AER:181] Walking Ballista
+SB: 3 [XLN:68] Pirate's Prize
+LAYOUT MAIN:(1,8)(CMC,false,50)|([DDF:76],[C17:299],[5ED:435],[INV:338],[ME3:220],[C13:341],[M10:234],[M12:234],[6ED:337],[EURO:7],[C16:341],[FRF:179],[M15:256],[P02:155],[MRD:291],[S00:52],[ZEN:236],[LRW:284],[ZEN:233],[DDL:40],[RTR:254],[DDF:37])([DOM:67],[DOM:67],[DOM:67],[DOM:67],[KLD:32],[KLD:32],[KLD:32],[KLD:32])([XLN:250],[XLN:250],[XLN:250],[XLN:250],[KLD:50],[KLD:50],[KLD:50],[KLD:50])([AER:160],[AER:160],[AER:160],[AER:160],[AER:49],[AER:49],[AER:49],[AER:49],[RIX:39],[RIX:39],[RIX:39])([AKH:2],[AKH:2],[AKH:2],[AKH:2])([XLN:69],[XLN:69],[XLN:69])([HOU:161])([AER:181],[AER:181],[AER:181])
+LAYOUT SIDEBOARD:(2,2)(CMC,true,50)|([AER:181])()()([XLN:68],[XLN:68],[XLN:68])

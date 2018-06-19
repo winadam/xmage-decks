@@ -1,0 +1,23 @@
+NAME:tokenwhite
+3 [XLN:22] Legion's Landing
+10 [AKH:250] Plains
+3 [AER:24] Sram's Expertise
+3 [RIX:22] Slaughter the Strong
+4 [AKH:2] Anointed Procession
+4 [AKH:3] Anointer Priest
+3 [KLD:17] Glint-Sleeve Artisan
+3 [KLD:19] Impeccable Timing
+3 [KLD:4] Angel of Invention
+4 [AKH:27] Sacred Cat
+4 [DOM:6] Benalish Marshal
+3 [HOU:11] Djeru's Renunciation
+5 [AKH:256] Plains
+6 [AKH:255] Plains
+2 [AKH:257] Plains
+SB: 3 [XLN:34] Settle the Wreckage
+SB: 3 [AKH:8] Cast Out
+SB: 3 [KLD:9] Cataclysmic Gearhulk
+SB: 3 [RIX:1] Baffling End
+SB: 3 [AKH:1] Angel of Sanctions
+LAYOUT MAIN:(1,6)(CMC,false,50)|([AKH:250],[AKH:257],[AKH:257],[AKH:256],[AKH:250],[AKH:255],[AKH:256],[AKH:255],[AKH:255],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:250],[AKH:255],[AKH:256],[AKH:256],[AKH:250],[AKH:255],[AKH:255],[AKH:256],[AKH:250])([XLN:22],[XLN:22],[XLN:22],[AKH:27],[AKH:27],[AKH:27],[AKH:27])([AKH:3],[AKH:3],[AKH:3],[AKH:3],[HOU:11],[HOU:11],[HOU:11],[KLD:19],[KLD:19],[KLD:19])([DOM:6],[DOM:6],[DOM:6],[DOM:6],[KLD:17],[KLD:17],[KLD:17],[RIX:22],[RIX:22],[RIX:22])([AKH:2],[AKH:2],[AKH:2],[AKH:2],[AER:24],[AER:24],[AER:24])([KLD:4],[KLD:4],[KLD:4])
+LAYOUT SIDEBOARD:(2,3)(CMC,true,50)|()()([KLD:9],[KLD:9],[KLD:9],[AKH:1],[AKH:1],[AKH:1])([RIX:1],[RIX:1],[RIX:1])([AKH:8],[AKH:8],[AKH:8],[XLN:34],[XLN:34],[XLN:34])()
